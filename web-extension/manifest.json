@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "Alles Search",
+    "short_name": "alles-search",
+    "description": "Adds search.alles.cx as a search engine.",
+    "version": "1.0.0",
+    "icons": {
+		"192": "icons/192x192.png"
+	},
+    "chrome_settings_overrides": {
+        "search_provider": {
+            "favicon_url": "https://search.alles.cx/_/static/logo-16.png",
+            "is_default": true,
+            "keyword": "alles",
+            "name": "Alles Search",
+            "search_url": "https://search.alles.cx",
+            "search_url_get_params": "q={searchTerms}"
+        }
+    }
+}

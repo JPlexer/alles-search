@@ -1,0 +1,24 @@
+{
+  "name": "alles-search",
+  "version": "1.0.0",
+  "description": "Web extension that adds search.alles.cx as a search engine to the Firefox browser.",
+  "author": "jplexer",
+  "scripts": {
+    "bundle": "web-ext -s web-extension -a dist build --overwrite-dest",
+    "start": "web-ext run -s ./web-extension"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JPlexer/alles-search"
+  },
+  "bugs": {
+    "url": "https://github.com/JPlexer/alles-search/issues"
+  },
+  "license": "Hippocratic License v2",
+  "keywords": [
+    "webextensions"
+  ],
+  "devDependencies": {
+    "web-ext": "^4.1.0"
+  }
+}
