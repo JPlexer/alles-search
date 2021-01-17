@@ -3,7 +3,7 @@
     "name": "Alles Search",
     "short_name": "alles-search",
     "description": "Adds search.alles.cx as a search engine.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icons": {
 		"192": "icons/192x192.png"
 	},
@@ -12,9 +12,9 @@
             "favicon_url": "https://search.alles.cx/_/static/logo-16.png",
             "is_default": true,
             "keyword": "alles",
-            "name": "Alles Search",
-            "search_url": "https://search.alles.cx",
-            "search_url_get_params": "q={searchTerms}"
+            "encoding": "UTF-8",
+            "name": "Alles",
+            "search_url": "https://search.alles.cx/?q={searchTerms}"
         }
     }
 }
