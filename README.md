@@ -5,7 +5,8 @@ Web extension that adds [search.alles.cx](https://search.alles.cx) as a search e
 chrome_settings_overrides](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/chrome_settings_overrides) manifest key). Submits the query via GET request for compatibility with [Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/).
 
 ## Download
-* To be done
+* [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alles-search/)
+* Chrome coming soon
 
 ## Develop Locally
 * Clone the repo
