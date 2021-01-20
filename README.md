@@ -6,7 +6,7 @@ chrome_settings_overrides](https://developer.mozilla.org/en-US/docs/Mozilla/Add-
 
 ## Download
 * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alles-search/)
-* Chrome coming soon
+* [Chrome](https://chrome.google.com/webstore/detail/alles-search/ifbcfgjldcafdkofbakodikmkidpdbgk)
 
 ## Develop Locally
 * Clone the repo
